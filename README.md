@@ -9,7 +9,7 @@
 
 - 🤝 I worked as Software Developer-Intern **TechCiti Software Consulting Private Limited**
 
-- 🌱 I’m currently developing my skills **Html, Css, Js, Python**
+- 🌱 I’m currently developing my skills on **Html, Css, Js, Python**
 
 - 🤝 I worked as Python Developer-Intern **Sysbreeze technology**
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **adilmundol@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1bU594gwxWiKzfrci8ykJ-k3J_ow42Jta/view?usp=drive_link](https://drive.google.com/file/d/1bU594gwxWiKzfrci8ykJ-k3J_ow42Jta/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1bU594gwxWiKzfrci8ykJ-k3J_ow42Jta/view?usp=sharing](https://drive.google.com/file/d/1bU594gwxWiKzfrci8ykJ-k3J_ow42Jta/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
