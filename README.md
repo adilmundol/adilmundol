@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **adilmundol@gmail.com** , 8281732268 
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1bU594gwxWiKzfrci8ykJ-k3J_ow42Jta/view?usp=sharing](https://drive.google.com/file/d/1bU594gwxWiKzfrci8ykJ-k3J_ow42Jta/view?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/file/d/1GXfdnIomiZ4gqAYQzfwnFXwyg0HXe87t/view
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
