@@ -13,7 +13,7 @@
 
 - 🤝 Python Developer-Intern at **Sysbreeze technology**
 
- - 🌱 I’m currently developing my skills on **Html, Css, Js, Python**
+ - 🌱 I’m currently developing my skills on **Web Development and Web Desiging**
    
 - 🔭 Done a Project at collage level **Road Damage Detection using Deep learning**
 
