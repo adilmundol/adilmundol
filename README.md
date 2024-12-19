@@ -15,7 +15,7 @@
 
  - 🌱 I’m currently developing my skills on **Web Development and Web Desiging**
    
-- 🔭 Done Projects using ** Deep learning, React Native and Python Django**
+- 🔭 Done Projects using  ** Deep learning, React Native and Python Django**
 
 - 📫 How to reach me **adilmundol@gmail.com** , 8281732268 
 
