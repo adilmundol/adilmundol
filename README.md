@@ -7,12 +7,14 @@
 
 <p align="left"> <a href="https://twitter.com/adilmundol" target="blank"><img src="https://img.shields.io/twitter/follow/adilmundol?logo=twitter&style=for-the-badge" alt="adilmundol" /></a> </p>
 
-- 🤝 I worked as Software Developer-Intern **TechCiti Software Consulting Private Limited**
+- 🤝 Python Django Developer-Intern at **Techmindz**
 
-- 🌱 I’m currently developing my skills on **Html, Css, Js, Python**
+- 🤝Software Developer-Intern at **TechCiti Software Consulting Private Limited**
 
-- 🤝 I worked as Python Developer-Intern **Sysbreeze technology**
+- 🤝 Python Developer-Intern at **Sysbreeze technology**
 
+ - 🌱 I’m currently developing my skills on **Html, Css, Js, Python**
+   
 - 🔭 Done a Project at collage level **Road Damage Detection using Deep learning**
 
 - 📫 How to reach me **adilmundol@gmail.com** , 8281732268 
