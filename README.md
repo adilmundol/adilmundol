@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/adilmundol" target="blank"><img src="https://img.shields.io/twitter/follow/adilmundol?logo=twitter&style=for-the-badge" alt="adilmundol" /></a> </p>
 
+- 🤝 Technical Support Assistant **ticketswithtours**
+
 - 🤝 Python Django Developer-Intern at **Techmindz**
 
 - 🤝Software Developer-Intern at **TechCiti Software Consulting Private Limited**
